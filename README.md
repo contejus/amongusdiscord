@@ -105,7 +105,7 @@ This is used to provide the linking URI to the capture, via the Direct Message t
 - `SHARD_ID`: Shard ID used to identify with the Discord API. Needs to be strictly less than `NUM_SHARDS`
 
 ## Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/contejus/amongusdiscord/tree/v2.4.4)
 
 1) Navigate to your Heroku app dashboard
 2) Go to Settings
