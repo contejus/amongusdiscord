@@ -134,6 +134,8 @@ unRAID hosting steps are are not yet updated for v3.0+ of AutoMuteUs, and as suc
 
 ## Heroku
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/contejus/amongusdiscord/tree/heroku_redis)
+
 Heroku hosting steps are are not yet updated for v3.0+ of AutoMuteUs, and as such is not supported at this time.
 
 ## Environment Variables
