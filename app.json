@@ -4,6 +4,12 @@
     "repository": "https://github.com/contejus/amongusdiscord",
     "logo": "https://github.com/denverquane/contejus/raw/master/assets/botProfilePicture.jpg",
     "keywords": ["go", "among us", "discord"],
+    "formation": {
+      "worker": {
+        "quantity": 1,
+        "size": "free"
+      }
+    },
     "env": {
       "DISCORD_BOT_TOKEN": {
         "description": "The Bot Token used by the bot to authenticate with Discord.",
